@@ -36,5 +36,6 @@
   "addons": [
     "heroku-postgresql:hobby-dev",
     "scheduler:standard"
-  ]
+  ],
+  "stack": "heroku-16"
 }
